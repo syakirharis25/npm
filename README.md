@@ -16,6 +16,9 @@ npm (originally short for Node Package Manager) is a package manager for the Jav
 npm official website : https://www.npmjs.com <br />
 node.js official website : https://nodejs.org <br />
 
+**_npm documentation by npmjs_**
+npm-init by npmjs : https://docs.npmjs.com/cli/init
+
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
