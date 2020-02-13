@@ -8,12 +8,20 @@ My works related to Node Package Manager - npm
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="npm.jpg" height="200"> 
+<img src="npm.png" height="150"> 
 npm (originally short for Node Package Manager) is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. The package manager and the registry are managed by npm, Inc.
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
 npm official website : https://www.npmjs.com <br />
+node.js official website : https://nodejs.org <br />
+
+**_npm packages_**
+Moment.js to Parse, validate, manipulate, and display dates and times in JavaScript. : https://momentjs.com <br />
+browserify lets you require('modules') in the browser by bundling up all of your dependencies : http://browserify.org, https://github.com/browserify/browserify <br />
+
+**_npm documentation by npmjs_**
+npm-init by npmjs : https://docs.npmjs.com/cli/init
 
 <a name="github"></a>
 ## 3. GitHub notes.
