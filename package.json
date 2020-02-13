@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "My works related to Node Package Manager - npm",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syakirharis25/npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syakirharis25/npm/issues"
+  },
+  "homepage": "https://github.com/syakirharis25/npm#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "uniq": "^1.0.1"
+  }
+}
