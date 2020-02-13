@@ -17,8 +17,8 @@ npm official website : https://www.npmjs.com <br />
 node.js official website : https://nodejs.org <br />
 
 **_npm packages_**
-Moment.js : https://momentjs.com <br />
-browserify : http://browserify.org, https://github.com/browserify/browserify <br />
+Moment.js to Parse, validate, manipulate, and display dates and times in JavaScript. : https://momentjs.com <br />
+browserify lets you require('modules') in the browser by bundling up all of your dependencies : http://browserify.org, https://github.com/browserify/browserify <br />
 
 **_npm documentation by npmjs_**
 npm-init by npmjs : https://docs.npmjs.com/cli/init
