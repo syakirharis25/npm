@@ -24,6 +24,7 @@ browserify lets you require('modules') in the browser by bundling up all of your
 **_npm documentation by npmjs_**
 npm-init by npmjs : https://docs.npmjs.com/cli/init <br />
 npm-fund by npmjs : https://docs.npmjs.com/cli-commands/fund.html <br />
+uuidv4 by npmjs : https://www.npmjs.com/package/uuidv4 <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
