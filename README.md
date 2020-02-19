@@ -5,6 +5,7 @@ My works related to Node Package Manager - npm
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [GitHub notes.](#github)
+4. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -31,3 +32,21 @@ $ git clone https://github.com/syakirharis25/npm.git
 $ cd npm/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 4. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+JavaScript                     371           4852           2395          54466
+Markdown                         4            363              0            676
+TypeScript                       1            126             87            523
+JSON                             4              0              0            256
+HTML                             1              4              0             11
+-------------------------------------------------------------------------------
+SUM:                           381           5345           2482          55932
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
