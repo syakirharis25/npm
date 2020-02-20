@@ -23,6 +23,7 @@ browserify lets you require('modules') in the browser by bundling up all of your
 Set.js, Create an array of items and then pass it to Set : https://www.npmjs.com/package/set <br />
 get : https://www.npmjs.com/package/get <br />
 lodash : https://www.npmjs.com/package/lodash <br />
+gulp : https://www.npmjs.com/package/gulp <br />
 
 **_npm documentation by npmjs_** <br />
 npm-init by npmjs : https://docs.npmjs.com/cli/init <br />
