@@ -21,6 +21,7 @@ node.js official website : https://nodejs.org <br />
 Moment.js to Parse, validate, manipulate, and display dates and times in JavaScript. : https://momentjs.com <br />
 browserify lets you require('modules') in the browser by bundling up all of your dependencies : http://browserify.org, https://github.com/browserify/browserify <br />
 Set.js, Create an array of items and then pass it to Set : https://www.npmjs.com/package/set <br />
+get : https://www.npmjs.com/package/get <br />
 
 **_npm documentation by npmjs_** <br />
 npm-init by npmjs : https://docs.npmjs.com/cli/init <br />
