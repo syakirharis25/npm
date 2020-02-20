@@ -44,7 +44,7 @@ What is the difference between --save and --save-dev? by Stack Overflow : https:
 Patch: A patch is released when there are some bug fixes in the package.
 <br /><br />
 Minor: A minor release means some new features may have been added to the package but it won’t break the existing APIs. So when the developers add something new to the package they release a minor version.
-
+<br /><br />
 Major: A major version is released when there are some changes in the package that can potentially break the APIs used in the existing application, dependent on that package. Which means some APIs may behave differently, some may not exist anymore which can lead to break an application dependent on that package.
 
 Semantic versioning official reference : https://docs.npmjs.com/about-semantic-versioning
