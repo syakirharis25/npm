@@ -4,8 +4,9 @@ My works related to Node Package Manager - npm
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [Semantic versioning.](#versioning)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -33,12 +34,28 @@ npm-init by npmjs : https://docs.npmjs.com/cli/init <br />
 npm-fund by npmjs : https://docs.npmjs.com/cli-commands/fund.html <br />
 uuidv4 by npmjs : https://www.npmjs.com/package/uuidv4 <br />
 npm-config by npmjs : https://docs.npmjs.com/cli/config <br />
+Live Server by npmjs : https://www.npmjs.com/package/live-server <br />
 
 **_npm related articles_** <br />
 What is the difference between --save and --save-dev? by Stack Overflow : https://stackoverflow.com/questions/22891211/what-is-the-difference-between-save-and-save-dev <br />
 
+<a name="versioning"></a>
+## 3. Semantic versioning.
+<img src="version.png" height="250"> 
+Patch : A patch is released when there are some bug fixes in the package.
+<br /><br />
+Minor : A minor release means some new features may have been added to the package but it won’t break the existing APIs. So when the developers add something new to the package they release a minor version.
+<br /><br />
+Major : A major version is released when there are some changes in the package that can potentially break the APIs used in the existing application, dependent on that package. Which means some APIs may behave differently, some may not exist anymore which can lead to break an application dependent on that package.
+<br /><br />
+Caret ^ : “^4.7.6” means, the application is ready for any Minor or Patch releases on the version 4 of the package. Which means if someone downloads the application from git and installs the npm dependencies and by then the developer has released a version 4.7.7, npm will eventually download that latest version for him. We can write it in another way like “4.x”. They both mean the same.
+<br /><br />
+Tilde ~ : “~4.7.6” means, the application is ready for any only patch releases on the version 4.7 of the package. Which means if someone downloads my application from git and installs the npm dependencies and by then mongoose has released a version 4.7.7, npm will eventually download that latest version for him. We can write it in another way like “4.7.x”. They both mean the same.
+<br /><br />
+Semantic versioning official reference : https://docs.npmjs.com/about-semantic-versioning
+
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/npm.git
@@ -48,7 +65,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 4. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
