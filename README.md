@@ -40,7 +40,7 @@ What is the difference between --save and --save-dev? by Stack Overflow : https:
 
 <a name="versioning"></a>
 ## 3. Semantic versioning.
-<img src="version.png" height="150"> 
+<img src="version.png" height="300"> 
 Patch: A patch is released when there are some bug fixes in the package. So here we can see that mongoose has release 1 patch or bug fix after releasing 5.7 version.
 
 Minor: A minor release means some new features may have been added to the package but it won’t break the existing APIs. So when the developers add something new to the package they release a minor version. Example: 5.8.0.
