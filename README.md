@@ -4,8 +4,9 @@ My works related to Node Package Manager - npm
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [Semantic versioning.](#versioning)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -37,8 +38,20 @@ npm-config by npmjs : https://docs.npmjs.com/cli/config <br />
 **_npm related articles_** <br />
 What is the difference between --save and --save-dev? by Stack Overflow : https://stackoverflow.com/questions/22891211/what-is-the-difference-between-save-and-save-dev <br />
 
+<a name="versioning"></a>
+## 3. Semantic versioning.
+<img src="version.png" height="150"> 
+Patch: A patch is released when there are some bug fixes in the package. So here we can see that mongoose has release 1 patch or bug fix after releasing 5.7 version.
+
+Minor: A minor release means some new features may have been added to the package but it won’t break the existing APIs. So when the developers add something new to the package they release a minor version. Example: 5.8.0.
+Here 0 in the patch section means they haven’t found any bug yet. So the version may be unstable.
+
+Major: A major version is released when there are some changes in the package that can potentially break the APIs used in the existing application, dependent on that package. Which means some APIs may behave differently, some may not exist anymore which can lead to break an application dependent on that package. In that case, they release a major version. Example: 6.0.0
+
+Semantic versioning official reference : https://docs.npmjs.com/about-semantic-versioning
+
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/npm.git
@@ -48,7 +61,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 4. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
