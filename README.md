@@ -41,12 +41,11 @@ What is the difference between --save and --save-dev? by Stack Overflow : https:
 <a name="versioning"></a>
 ## 3. Semantic versioning.
 <img src="version.png" height="250"> 
-Patch: A patch is released when there are some bug fixes in the package. So here we can see that mongoose has release 1 patch or bug fix after releasing 5.7 version.
+Patch: A patch is released when there are some bug fixes in the package.
+<br /><br />
+Minor: A minor release means some new features may have been added to the package but it won’t break the existing APIs. So when the developers add something new to the package they release a minor version.
 
-Minor: A minor release means some new features may have been added to the package but it won’t break the existing APIs. So when the developers add something new to the package they release a minor version. Example: 5.8.0.
-Here 0 in the patch section means they haven’t found any bug yet. So the version may be unstable.
-
-Major: A major version is released when there are some changes in the package that can potentially break the APIs used in the existing application, dependent on that package. Which means some APIs may behave differently, some may not exist anymore which can lead to break an application dependent on that package. In that case, they release a major version. Example: 6.0.0
+Major: A major version is released when there are some changes in the package that can potentially break the APIs used in the existing application, dependent on that package. Which means some APIs may behave differently, some may not exist anymore which can lead to break an application dependent on that package.
 
 Semantic versioning official reference : https://docs.npmjs.com/about-semantic-versioning
 
