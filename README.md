@@ -47,9 +47,9 @@ Minor : A minor release means some new features may have been added to the packa
 <br /><br />
 Major : A major version is released when there are some changes in the package that can potentially break the APIs used in the existing application, dependent on that package. Which means some APIs may behave differently, some may not exist anymore which can lead to break an application dependent on that package.
 <br /><br />
-Caret ^ : “^5.7.1” means, the application is ready for any Minor or Patch releases on the version 5 of the package. Which means if someone downloads my application from git and installs the npm dependencies and by then mongoose has released a version 5.8.2, npm will eventually download that latest version for him. We can write it in another way like “5.x”. They both mean the same.
+Caret ^ : “^4.7.6” means, the application is ready for any Minor or Patch releases on the version 4 of the package. Which means if someone downloads my application from git and installs the npm dependencies and by then mongoose has released a version 4.7.7, npm will eventually download that latest version for him. We can write it in another way like “4.x”. They both mean the same.
 <br /><br />
-Tilde ~ : “~5.7.1” means, the application is ready for any only Patch releases on the version 5.7 of the package. Which means if someone downloads my application from git and installs the npm dependencies and by then mongoose has released a version 5.7.2, npm will eventually download that latest version for him. We can write it in another way like “5.7.x”. They both mean the same.
+Tilde ~ : “~4.7.6” means, the application is ready for any only Patch releases on the version 4.7 of the package. Which means if someone downloads my application from git and installs the npm dependencies and by then mongoose has released a version 4.7.7, npm will eventually download that latest version for him. We can write it in another way like “4.7.x”. They both mean the same.
 <br /><br />
 Semantic versioning official reference : https://docs.npmjs.com/about-semantic-versioning
 
