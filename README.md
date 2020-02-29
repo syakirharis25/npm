@@ -35,6 +35,7 @@ npm-fund by npmjs : https://docs.npmjs.com/cli-commands/fund.html <br />
 uuidv4 by npmjs : https://www.npmjs.com/package/uuidv4 <br />
 npm-config by npmjs : https://docs.npmjs.com/cli/config <br />
 Live Server by npmjs : https://www.npmjs.com/package/live-server <br />
+http-server by npmjs : https://www.npmjs.com/package/http-server <br />
 
 **_npm related articles_** <br />
 What is the difference between --save and --save-dev? by Stack Overflow : https://stackoverflow.com/questions/22891211/what-is-the-difference-between-save-and-save-dev <br />
