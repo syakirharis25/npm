@@ -28,15 +28,16 @@ Set.js, Create an array of items and then pass it to Set : https://www.npmjs.com
 get : https://www.npmjs.com/package/get <br />
 lodash : https://www.npmjs.com/package/lodash <br />
 gulp : https://www.npmjs.com/package/gulp <br />
+uuidv4 : https://www.npmjs.com/package/uuidv4 <br />
+Live Server : https://www.npmjs.com/package/live-server <br />
+http-server : https://www.npmjs.com/package/http-server <br />
+npx :  https://www.npmjs.com/package/npx <br />
 
 **_npm documentation by npmjs_** <br />
 npm-init by npmjs : https://docs.npmjs.com/cli/init <br />
 npm-fund by npmjs : https://docs.npmjs.com/cli-commands/fund.html <br />
-uuidv4 by npmjs : https://www.npmjs.com/package/uuidv4 <br />
 npm-config by npmjs : https://docs.npmjs.com/cli/config <br />
-Live Server by npmjs : https://www.npmjs.com/package/live-server <br />
-http-server by npmjs : https://www.npmjs.com/package/http-server <br />
-npx by npmjs :  https://www.npmjs.com/package/npx <br />
+Package name guidelines by npmjs : https://docs.npmjs.com/package-name-guidelines 
 
 **_npm related articles_** <br />
 What is the difference between --save and --save-dev? by Stack Overflow : https://stackoverflow.com/questions/22891211/what-is-the-difference-between-save-and-save-dev <br />
