@@ -45,6 +45,12 @@ Try the latest stable version of npm by npmjs : https://docs.npmjs.com/try-the-l
 What is the difference between --save and --save-dev? by Stack Overflow : https://stackoverflow.com/questions/22891211/what-is-the-difference-between-save-and-save-dev <br />
 npm vs npx — What’s the Difference? by freeCodeCamp : https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/ <br />
 
+**_npm projects in GitHub_** <br />
+Upgrade npm on Windows by Felix Rieseberg : https://github.com/felixrieseberg/npm-windows-upgrade <br />
+
+**_npm developers_** <br />
+Felix Rieseberg : https://github.com/felixrieseberg <br />
+
 <a name="versioning"></a>
 ## 3. Semantic versioning.
 <img src="version.png" height="250"> 
