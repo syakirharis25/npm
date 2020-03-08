@@ -32,6 +32,7 @@ uuidv4 : https://www.npmjs.com/package/uuidv4 <br />
 Live Server : https://www.npmjs.com/package/live-server <br />
 http-server : https://www.npmjs.com/package/http-server <br />
 npx :  https://www.npmjs.com/package/npx <br />
+node-pre-gyp : https://www.npmjs.com/package/node-pre-gyp <br />
 
 **_npm documentation by npmjs_** <br />
 npm-init by npmjs : https://docs.npmjs.com/cli/init <br />
