@@ -38,7 +38,8 @@ node-pre-gyp : https://www.npmjs.com/package/node-pre-gyp <br />
 npm-init by npmjs : https://docs.npmjs.com/cli/init <br />
 npm-fund by npmjs : https://docs.npmjs.com/cli-commands/fund.html <br />
 npm-config by npmjs : https://docs.npmjs.com/cli/config <br />
-Package name guidelines by npmjs : https://docs.npmjs.com/package-name-guidelines 
+Package name guidelines by npmjs : https://docs.npmjs.com/package-name-guidelines <br />
+Try the latest stable version of npm by npmjs : https://docs.npmjs.com/try-the-latest-stable-version-of-npm <br />
 
 **_npm related articles_** <br />
 What is the difference between --save and --save-dev? by Stack Overflow : https://stackoverflow.com/questions/22891211/what-is-the-difference-between-save-and-save-dev <br />
