@@ -18,7 +18,7 @@ npm (originally short for Node Package Manager) is a package manager for the Jav
 npm official website : https://www.npmjs.com <br />
 node.js official website : https://nodejs.org <br />
 
-**_npm tools_**
+**_npm tools_** <br />
 npm semver calculator : https://semver.npmjs.com <br />
 
 **_npm packages_** <br />
