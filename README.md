@@ -34,6 +34,7 @@ http-server : https://www.npmjs.com/package/http-server <br />
 npx :  https://www.npmjs.com/package/npx <br />
 node-pre-gyp : https://www.npmjs.com/package/node-pre-gyp <br />
 create-react-app : https://www.npmjs.com/package/create-react-app <br />
+lite-server : https://www.npmjs.com/package/lite-server <br />
 
 **_npm documentation by npmjs_** <br />
 npm-init by npmjs : https://docs.npmjs.com/cli/init <br />
